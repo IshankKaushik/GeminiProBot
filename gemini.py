@@ -11,7 +11,7 @@ from aiogram.types import ParseMode, ChatActions
 from aiogram.utils import executor
 
 # Create the bot object.
-bot = Bot(token='12345678:AAGNaKh6J5jrK4og9FWkiGR1jifbZjTniik')
+bot = Bot(token='5853289080:AAEz0zoiiwcStnFFKEPHv6iQiAOy4MuUSY4')
 dp = Dispatcher(bot)
 
 # Use os.getenv for the Google API key
