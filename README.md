@@ -114,10 +114,3 @@ The bot supports the following commands:
 - /gem: Generates a response based on a text prompt.
 - /imgai: Generates a response based on an image.
 Ensure to reply to an image with /imgai command for it to work.
-
-## Author 📝
-
-- Name: Bisnu Ray
-- Telegram: [@SmartBisnuBio](https://t.me/SmartBisnuBio)
-
-Feel free to reach out if you have any questions or feedback.
